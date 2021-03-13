@@ -1,0 +1,16 @@
+D:\20202\Computer Graphics\Unity\obj\Debug\net5.0\Unity.csprojAssemblyReference.cache
+D:\20202\Computer Graphics\Unity\obj\Debug\net5.0\Unity.GeneratedMSBuildEditorConfig.editorconfig
+D:\20202\Computer Graphics\Unity\obj\Debug\net5.0\Unity.AssemblyInfoInputs.cache
+D:\20202\Computer Graphics\Unity\obj\Debug\net5.0\Unity.AssemblyInfo.cs
+D:\20202\Computer Graphics\Unity\obj\Debug\net5.0\Unity.csproj.CoreCompileInputs.cache
+D:\20202\Computer Graphics\Unity\bin\Debug\net5.0\Unity.exe
+D:\20202\Computer Graphics\Unity\bin\Debug\net5.0\Unity.deps.json
+D:\20202\Computer Graphics\Unity\bin\Debug\net5.0\Unity.runtimeconfig.json
+D:\20202\Computer Graphics\Unity\bin\Debug\net5.0\Unity.runtimeconfig.dev.json
+D:\20202\Computer Graphics\Unity\bin\Debug\net5.0\Unity.dll
+D:\20202\Computer Graphics\Unity\bin\Debug\net5.0\ref\Unity.dll
+D:\20202\Computer Graphics\Unity\bin\Debug\net5.0\Unity.pdb
+D:\20202\Computer Graphics\Unity\obj\Debug\net5.0\Unity.dll
+D:\20202\Computer Graphics\Unity\obj\Debug\net5.0\ref\Unity.dll
+D:\20202\Computer Graphics\Unity\obj\Debug\net5.0\Unity.pdb
+D:\20202\Computer Graphics\Unity\obj\Debug\net5.0\Unity.genruntimeconfig.cache
